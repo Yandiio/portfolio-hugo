@@ -1,0 +1,15 @@
+{
+    "title" : "Service",
+    "services" : [
+        {
+            "icon" : "code",
+            "title" : "Back-end Engineer",
+            "description" : "I can work as a back-end engineer, handling API, websocket, and anything about the system in dark side."
+        },
+        {
+            "icon" : "pencil-ruler",
+            "title" : "Front-end Engineer",
+			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, suscipit pretium dolor. "
+        }
+    ]
+}

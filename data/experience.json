@@ -1,0 +1,15 @@
+{
+    "title" : "Experience",
+    "experience" : [
+        {
+            "timeperiod" : "October 2019 - December 2019",
+            "company" : "Five Code Development",
+            "description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor."
+        },
+        {
+            "timeperiod" : "May 2018 - Present",
+            "company" : "Freelancer",
+            "description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor."
+        }
+    ]
+}
